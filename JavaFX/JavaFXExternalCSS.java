@@ -16,8 +16,6 @@ public class JavaFXExternalCSS extends Application
 	@Override
 	public void start(Stage primaryStage) throws Exception
 	{
-		
-		
 		/* Button - Same as JavaFXButton.java */
 		Button exitButton = new Button("Exit");
 		Tooltip exitButtonTip = new Tooltip("Exit Button"); /* Creates a new Tooltip that shows text when the mouse hovers over the button */
