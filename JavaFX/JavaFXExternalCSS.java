@@ -29,7 +29,7 @@ public class JavaFXExternalCSS extends Application
 		scene.getStylesheets().add("JavaFXCSS.css"); /* Links the Styles Sheet to the Scene */
 		
 		/* Stage - Same as JavaFXButton.java */
-		primaryStage.setTitle("JavaFX Button Application");
+		primaryStage.setTitle("JavaFX External CSS Application");
 		primaryStage.setScene(scene);
 		primaryStage.show();
 	}

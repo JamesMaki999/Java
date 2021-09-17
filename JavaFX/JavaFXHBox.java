@@ -37,7 +37,7 @@ public class JavaFXHBox extends Application
 		Scene scene = new Scene(root, 500, 300);
 		
 		/* Stage - Same as JavaFXButton.java */
-		primaryStage.setTitle("JavaFX Button Application");
+		primaryStage.setTitle("JavaFX HBox Application");
 		primaryStage.setScene(scene);
 		primaryStage.show();
 	}
