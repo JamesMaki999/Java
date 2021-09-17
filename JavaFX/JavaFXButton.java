@@ -21,7 +21,7 @@ public class JavaFXButton extends Application
 		String exitButtonCSS = "-fx-background-color: #ababad;" +
 							   "-fx-border-color: rgb(0, 20, 255);" +
 							   "-fx-text-fill: white;" +
-							   "-fx-font-size: 18pt" +
+							   "-fx-font-size: 18pt;" +
 							   "-fx-font-family: 'Courier New';" +
 							   "-fx-border-radius: 10;"; /* Smooths the corners */
 		
